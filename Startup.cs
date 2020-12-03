@@ -12,7 +12,7 @@ using LibraryModel.Data;
 using Microsoft.EntityFrameworkCore;
 using Maxian_Robert_Lab2.Hubs;
 
-namespace Maxian_Robert_Lab2
+namespace Maxian_Robert_Lab2 
 {
     public class Startup
     {
